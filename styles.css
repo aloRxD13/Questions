@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: start;
+    margin: 20px;
+}
+
+body {
+    background-color: #4386dd;
+   
+}
+h1 {
+    margin-bottom: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+
+input {
+    width: 200px;
+    margin: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#countdown {
+    font-size: 24px;
+    margin-top: 20px;
+}
